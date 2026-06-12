@@ -1,4 +1,5 @@
 ## Disasters Dashboard
+
 ## Overview
 This academic Tableau project analyzed FEMA disaster declaration data across the United States. The dashboard was created to visualize disaster activity by state, incident type, and time period.
 
